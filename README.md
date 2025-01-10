@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Luigi Crisci</h1>
-<h3 align="center">A Cybersecurity student passionate about software development</h3>
+<h3 align="center">A Cybersecurity Consultant passionate about software development</h3>
 
-- 📖 I’m a student at **Politecnico di Torino**
+- 👩🏻‍💻 I’m a **Cybersecurity Consultant** @ Spike Reply 
 
-- 🌱 I’m learning **Rust** and mastering **cybersecurity aspects**
+- 🌱 I’m learning more in depth **Cybersecurity** in order to improve my **practical knowledge** on real scenarios
 
-- 🔭 I’m currently working on **Antifraud** master thesis
+- 👾  In my free time, I enjoy participating in **CTF challenges**.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
